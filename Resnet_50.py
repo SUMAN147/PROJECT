@@ -8,7 +8,7 @@
 from __future__ import print_function
 
 import numpy as numpy
-import warnings
+import warning
 
 from keras.layers import Input
 from keras import layers
